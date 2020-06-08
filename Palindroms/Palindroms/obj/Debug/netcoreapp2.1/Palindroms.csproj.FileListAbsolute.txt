@@ -1,0 +1,11 @@
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\bin\Debug\netcoreapp2.1\Palindroms.deps.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\bin\Debug\netcoreapp2.1\Palindroms.runtimeconfig.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\bin\Debug\netcoreapp2.1\Palindroms.runtimeconfig.dev.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\bin\Debug\netcoreapp2.1\Palindroms.dll
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\bin\Debug\netcoreapp2.1\Palindroms.pdb
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.csprojAssemblyReference.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.csproj.CoreCompileInputs.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.AssemblyInfoInputs.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.AssemblyInfo.cs
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.dll
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\Palindroms\Palindroms\obj\Debug\netcoreapp2.1\Palindroms.pdb
