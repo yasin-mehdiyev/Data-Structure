@@ -1,0 +1,11 @@
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\bin\Debug\netcoreapp2.1\IntegerReversal.deps.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\bin\Debug\netcoreapp2.1\IntegerReversal.runtimeconfig.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\bin\Debug\netcoreapp2.1\IntegerReversal.runtimeconfig.dev.json
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\bin\Debug\netcoreapp2.1\IntegerReversal.dll
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\bin\Debug\netcoreapp2.1\IntegerReversal.pdb
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.csprojAssemblyReference.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.csproj.CoreCompileInputs.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.AssemblyInfoInputs.cache
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.AssemblyInfo.cs
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.dll
+C:\Users\AbbasaliyevMC\Desktop\Algorithms\IntegerReversal\IntegerReversal\obj\Debug\netcoreapp2.1\IntegerReversal.pdb
